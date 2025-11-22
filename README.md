@@ -65,12 +65,12 @@ npx prisma migrate dev --name init
 npm run dev
 ```
 ### App runs at:
-
-👉 http://localhost:3000 (Dashboard) \n
-👉 http://localhost:3000/api/links (List Links) \n 
-👉 http://localhost:3000/healthz (Health Endpoint) \n 
+```
+👉 http://localhost:3000 (Dashboard)
+👉 http://localhost:3000/api/links (List Links)
+👉 http://localhost:3000/healthz (Health Endpoint) 
 👉  http://localhost:3000/code/link (Stats Page)
-
+```
 
 ## 🔐 Environment Variables
 ```sh
